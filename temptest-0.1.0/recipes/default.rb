@@ -3,7 +3,7 @@
 # Recipe:: default
 #
 # Copyright:: 2018, The Authors, All Rights Reserved.
-  template '/root/zzz' do
+  template '/root/xyz' do
   source '789.erb'
   action :create
  not_if do
