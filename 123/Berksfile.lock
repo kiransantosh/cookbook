@@ -1,0 +1,7 @@
+DEPENDENCIES
+  123
+    path: .
+    metadata: true
+
+GRAPH
+  123 (0.1.0)
